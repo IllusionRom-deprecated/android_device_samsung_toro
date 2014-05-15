@@ -6,9 +6,9 @@
    "revision":    "cm-11.0"
  },
  {
-   "remote":      "gh",
-   "repository": "CyanogenMod/android_device_samsung_tuna",
+   "remote":      "ill",
+   "repository":  "android_device_samsung_tuna",
    "target_path": "device/samsung/tuna",
-   "revision":    "cm-11.0"
+   "revision":    "illusion-4.4"
  }
 ]
